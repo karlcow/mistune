@@ -378,6 +378,16 @@ Keep only 6 level containers.
 </blockquote>
 ````````````````````````````````
 
+Second line does not require a quote character
+
+```````````````````````````````` example
+> line 1
+line 2
+.
+<blockquote>
+<p>line 1 line 2</p>
+</blockquote>
+````````````````````````````````
 
 ### Lists
 
